@@ -1,0 +1,26 @@
+{
+	"coverimage": "https://cdn.jsdelivr.net/gh/brianhaferkamp/jsonBooks@f2d318546b38f63787247d20ab8a34f5be4e7b6a/images/cover-pursuit-of-god.jpg",
+	"booktitle": "The Pursuit of God",
+	"bookauthor": "AW Tozer",
+	"toctitle": [
+		"Introduction",
+		"Preface",
+		"Following Hard After God",
+		"The Blessedness of Possessing Nothing",
+		"Removing the Veil",
+		"Apprehending God",
+		"The Universal Presence",
+		"The Speaking Voice",
+		"The Gaze of the Soul",
+		"Restoring the Creator-creature Relation",
+		"Meekness and Rest",
+		"The Sacrament of Living"
+	],
+	"chapter": [
+		{
+			"chapternumber": "Sequential chapter number",
+			"chaptertitle": "Chapter Title",
+			"chaptertext": "Chapter text goes here..."
+		}
+	]
+}
