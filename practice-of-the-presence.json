@@ -1,0 +1,13 @@
+{
+	"coverimage": "https://cdn.jsdelivr.net/gh/brianhaferkamp/jsonBooks@0e8683fc36e44155ebaf148e69716ae1a7798423/images/cover-practice-of-the-presence.jpg",
+	"booktitle": "Book Title",
+	"bookauthor": "Book Author",
+	"toctitle": [],
+	"chapter": [
+		{
+			"chapternumber": "Sequential chapter number",
+			"chaptertitle": "Chapter Title",
+			"chaptertext": "Chapter text goes here..."
+		}
+	]
+}
