@@ -1,0 +1,15 @@
+{
+	"coverimage": "https://cdn.jsdelivr.net/gh/brianhaferkamp/jsonBooks@ae178d6430819fb041fa9e3a2d27fe67d8670afc/images/short-method-of-prayer-cover.jpg",
+	"booktitle": "A Short Method of Prayer",
+	"bookauthor": "Madame Guyon",
+	"toctitle": [
+		"THE DIFFERENT WAYS IN WHICH SOULS ARE LED TO SEEK AFTER GOD"
+	],
+	"chapter": [
+		{
+			"chapternumber": "Sequential chapter number",
+			"chaptertitle": "Chapter Title",
+			"chaptertext": "Chapter text goes here..."
+		}
+	]
+}
