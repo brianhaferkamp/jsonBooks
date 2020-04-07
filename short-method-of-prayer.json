@@ -3,12 +3,30 @@
 	"booktitle": "A Short Method of Prayer",
 	"bookauthor": "Madame Guyon",
 	"toctitle": [
-		"THE DIFFERENT WAYS IN WHICH SOULS ARE LED TO SEEK AFTER GOD"
+		"Prayer Possible at All Times, by the Most SImple",
+		"First Degree of Prayer",
+		"Second Degree of Prayer",
+		"Spiritual Dryness",
+		"Abandonment to God",
+		"Suffering",
+		"Mysteries",
+		"Virtue",
+		"Perfect Conversion",
+		"Higher Degree of Prayer",
+		"Rest in the Presence of God",
+		"Self-Examination and Confession",
+		"Reading and Vocal Prayer",
+		"The Faults and Temptations of This Degree",
+		"Prayer and Sacrifice Explained by the Similitude of a Perfume",
+		"This State Not One of Idleness, but of Action",
+		"Distinction Between Exterior and Interior Actions",
+		"Exhortations to Preachers",
+		"Preparation for Divine Union"
 	],
 	"chapter": [
 		{
-			"chapternumber": "Sequential chapter number",
-			"chaptertitle": "Chapter Title",
+			"chapternumber": "preface",
+			"chaptertitle": "",
 			"chaptertext": "Chapter text goes here..."
 		}
 	]
