@@ -1,0 +1,26 @@
+{
+	"coverimage": "https://cdn.jsdelivr.net/gh/brianhaferkamp/jsonBooks@e3b38c2a5214f55decf6668973db6741b39d7418/images/pilgrims-progress-cover.jpg",
+	"booktitle": "The Pilgrim's Progress",
+	"bookauthor": "John Bunyan",
+	"toctitle": [
+		"The Author's Apology for His Book",
+		"In the Similitude of a Dream",
+		"The Conclusion"
+	],
+	"chapter": [
+		{
+			"chapternumber": "1",
+			"chaptertitle": "The Author's Apology for His Book",
+			"chaptertext": "Chapter text goes here..."
+		},
+		{
+			"chapternumber": "2",
+			"chaptertitle": "In the Similitude of a Dream"
+		},
+		{
+			"chapternumber": "3",
+			"chaptertitle": "The Conclusion",
+			"chaptertext": "Now, Reader, I have told my dream to thee;\nSee if thou canst interpret it to me,\nOr to thyself, or neighbour; but take heed\nOf misinterpreting; for that, instead\nOf doing good, will but thyself abuse:\nBy misinterpreting, evil ensues.\n\nTake heed, also, that thou be not extreme,\nIn playing with the outside of my dream:\nNor let my figure or similitude\nPut thee into a laughter or a feud.\nLeave this for boys and fools; but as for thee,\nDo thou the substance of my matter see.\n\nPut by the curtains, look within my veil,\nTurn up my metaphors, and do not fail,\nThere, if thou seekest them, such things to find,\nAs will be helpful to an honest mind.\n\nWhat of my dross thou findest there, be bold\nTo throw away, but yet preserve the gold;\nWhat if my gold be wrapped up in ore?--\nNone throws away the apple for the core.\nBut if thou shalt cast all away as vain,\nI know not but 'twill make me dream again."
+		}
+	]
+}
